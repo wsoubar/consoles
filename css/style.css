@@ -1,0 +1,12 @@
+.navbar {
+    min-height: 70px;
+}
+
+.main-logo {
+    max-height: 40px;
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
